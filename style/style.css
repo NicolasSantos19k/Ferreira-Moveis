@@ -265,6 +265,7 @@ section{
         border: none;
         outline: none;
         background-color: var(--terdiary-color);
+        color: #151515;
         padding: 5px 15px;
         font-size: 18px;
         border-radius: 50px;
@@ -451,6 +452,7 @@ section{
         font-size: 18px;
         border-radius: 50px;
         cursor: pointer;
+        color: #151515;
     }
     .cadeira{
         width: 500px;
@@ -634,6 +636,7 @@ section{
         font-size: 18px;
         border-radius: 50px;
         cursor: pointer;
+        color: #151515;
     }
     .cadeira{
         width: 100%;
@@ -757,6 +760,12 @@ section{
     }
     .card3:hover .card-hide{
         opacity: 1;
+    }
+    .input-footer{
+        width: 150px;
+    }
+    .logo{
+        width: 150px;
     }
 
 }
